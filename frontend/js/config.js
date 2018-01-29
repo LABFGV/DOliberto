@@ -40,11 +40,20 @@ config = {
 
     inputData: {
         sec: [
-            "Secretaria 1",
-            "Secretaria 2",
-            "Secretaria 3",
-            "Secretaria 4",
-            "Secretaria 5"
+            "SEMGAP",
+            "PGM",
+            "SEMEF",
+            "SEMED",
+            "MESQUITAPREV",
+            "SETRANS",
+            "SEMSOP",
+            "SEMCELT",
+            "SEMAS",
+            "STI",
+            "SEMMURB",
+            "SEMOSPDEC",
+            "SEMUS",
+            "SETRADE"
         ],
         sec2: [
             "Dardo 1",
